@@ -1,12 +1,10 @@
-# ModBoy
+# How to use your modified Gameboy:
 
-## How to use your modified Gameboy:
-
-### Adjusting brightness
+## Adjusting brightness
 - Hold select and press L to lower brightness.
 - Hold select and press R to raise brightness.
 
-### Charging
+## Charging
 - Included is a USB-A to USB-C cable, plug in from the bottom where the battery compartment is.
 - It will glow green and orange if the device is not fully charged.
 - It will glow green if it is fully charged.
@@ -14,7 +12,7 @@
 - Do NOT remove the rechargable battery, you can damage the pins. If you *must*- do it carefully.
 - The power indicator on the Gameboy will indicate if it needs charging by changing color.
 
-### Games
+## Games
 - Included is an Everdrive GBA x5 mini & microSD card.
 - Navigate menus with the directional pad and A button.
 - Up and down selects individual ROMs or folders.
