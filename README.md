@@ -12,6 +12,7 @@
 - It will glow green if it is fully charged.
 - Expect around 5 hours of play time on the lowest brightness level.
 - Do NOT remove the rechargable battery, you can damage the pins. If you *must*- do it carefully.
+- The power indicator on the Gameboy will indicate if it needs charging by changing color.
 
 ### Games
 - Included is an Everdrive GBA x5 mini & microSD card.
